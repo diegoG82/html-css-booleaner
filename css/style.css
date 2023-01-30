@@ -6,6 +6,7 @@
 }
 
 
+
 /* header */
 .header-design {
 
@@ -52,6 +53,18 @@ color: grey;
 .tim-photos{
 
     margin-top: 30px;
+    margin-left: 5px;
+   
+}
+
+.tim1{
+    width: 700px;
+    height: auto;
+}
+
+.tim2{
+    width: 600px;
+    height: auto;
 }
 
 .photo-credentials{

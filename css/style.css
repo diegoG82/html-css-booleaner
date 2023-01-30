@@ -74,3 +74,25 @@ ul {
     padding: 0;
     list-style-position: inside;
 }
+
+/* table */
+
+.lorem-table{
+
+    margin:20px  0;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+#long-cell{
+    width: 50%;
+}
+
+.dodgerblue-row{
+    background-color: dodgerblue;
+    color:  white;
+}
+
+.cyan-row {
+    background-color: cyan;
+}

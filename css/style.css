@@ -47,4 +47,30 @@ color: grey;
 
 /* main */
 
+/* tim photo section */
 
+.tim-photos{
+
+    margin-top: 30px;
+}
+
+.photo-credentials{
+
+    font-size:15px;
+}
+
+/* first-paragraph section */
+
+.first-paragraph{
+    padding-top: 30px;
+}
+
+.list{
+
+    padding-top: 30px;
+}
+
+ul {
+    padding: 0;
+    list-style-position: inside;
+}
